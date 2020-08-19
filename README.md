@@ -19,8 +19,8 @@ and the United Kennel Club oversee breeding records.</I></p>
 <dd>Black hot drink 
 <dt>milk
 <dd> white cold drink </dl>
-<p>you can also use an image as a link
-<a href="Google.com"><img border=0 scr =images.jpg>
+<p><b>you can also use an image as a link</b>
 </p>
+
 </body>
 </html>
